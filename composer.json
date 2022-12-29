@@ -1,5 +1,5 @@
 {
-  "name": "fullcalendar/fullcalendar-scheduler",
+  "name": "sme1nyk/scheduler",
   "type": "component",
   "description": "A premium add-on to FullCalendar for displaying events and resources",
   "keywords": [
@@ -11,9 +11,9 @@
   "homepage": "https://fullcalendar.io/scheduler/",
   "authors": [
     {
-      "name": "Adam Shaw",
-      "email": "arshaw@arshaw.com",
-      "homepage": "http://arshaw.com/"
+      "name": "Stanislav Melnyk",
+      "email": "melomen.oen@gmail.com",
+      "homepage": ""
     }
   ],
   "minimum-stability": "stable",
@@ -21,7 +21,7 @@
     "robloach/component-installer": "*",
     "components/jquery": "2 - 3",
     "moment/moment": "^2.20.1",
-    "fullcalendar/fullcalendar": "~3.9.0"
+    "fullcalendar/fullcalendar": "~3.10.2"
   },
   "extra": {
     "component": {
