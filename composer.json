@@ -21,7 +21,7 @@
     "robloach/component-installer": "*",
     "components/jquery": "2 - 3",
     "moment/moment": "^2.20.1",
-    "fullcalendar/fullcalendar": "~3.10.2"
+    "sme1nyk/yii2fullcalendar": "*"
   },
   "extra": {
     "component": {
@@ -36,5 +36,11 @@
         "dist/scheduler.min.css"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/sme1nyk/yii2fullcalendar"
+    }
+  ]
 }
